@@ -1,47 +1,90 @@
-# 🚀 Project 3D - Portfolio
+# Project 3D - Portfolio
 
 <p align="center">
-  <img src="<!-- INSERT YOUR IMAGE LINK HERE -->" alt="Sumit's Portfolio Screenshot"/>
+  <img src="https://user-images.githubusercontent.com/78680563/227708528-0e803ddf-506e-4d8b-98bc-dd7bf0f1b518.png" alt="Om's Logo Image"/>
 </p>
 
-This is my personal 3D portfolio project built using **Vite + React + Three.js**. It showcases my journey as a **Frontend Developer** and serves as an interactive space to present my work and resume.
+This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
 
-Initially inspired by the [JavaScript Mastery tutorial](https://youtu.be/0fYi8SGA20k?feature=shared), I extended it with my own improvements and personalization.
+Work done on it other than the tutorial:-
+- Removed unused CSS.
+- Removed Extra Animations.
+- Made UI Faster.
+- Added a Resume Button (Where you can put a link to your resume).
+- Enhanced Visibility and solved Responsive UI Problems.
 
----
+This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
 
-### 🔧 Work Done Beyond the Tutorial:
-- Removed unused CSS & assets
-- Removed extra animations for better UX
-- Improved UI performance
-- Added a working **Download Resume** button
-- Solved responsiveness issues and improved mobile view
-- Polished design to reflect my developer brand
+## :star: Give A Star
 
----
+You can also give this repository a star to show more people and they can use this repository.
 
-🌐 This project is deployed on **Vercel**: [3D Portfolio Live](https://myPortFolioNew.vercel.app/)
+# Getting Started
 
----
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-## ⭐ Give It a Star!
+Prerequisites
+Before you start, make sure you have the following software installed on your computer:
 
-If you find this project helpful or inspiring, please consider giving it a ⭐ — it helps more people discover and learn from it.
-
----
-
-## 🧩 Getting Started
-
-These instructions will help you run the project locally for development/testing purposes.
-
-### Prerequisites
-Ensure the following is installed:
 [![My Skills](https://skillicons.dev/icons?i=nodejs)](https://skillicons.dev)
 
-### Clone & Setup
+
+## ℹ️ How to use this Repository?
+
+1. Clone the repository to your local machine
 
 ```bash
-git clone https://github.com/Timori52/myPortFolioNew.git
-cd myPortFolioNew
-npm install
-npm run dev
+  git clone https://github.com/omunite215/Project_3DPortfolio.git
+
+```
+2. Navigate to the project directory
+
+```bash
+  cd Project_3DPortfolio
+```
+3. Install the necessary dependencies
+```bash
+  npm install
+```
+
+4. Start the development server
+```bash
+  npm run dev
+```
+
+The website should now be up and running on http://localhost:3000.
+
+## 🏠 Built With:
+
+[![My Skills](https://skillicons.dev/icons?i=vscode,react,nextjs,threejs,tailwind,netlify)](https://skillicons.dev)
+
+## 🛠 Skills
+
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,threejs)](https://skillicons.dev)
+
+## 🚀 About Me
+Specializations:
+- UI/UX Design.
+- Web Development
+
+## 🙋‍♂️ Connect With Me
+
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
+
+## 🗒️ Authors
+- Om Patel
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <a href="https://github.com/omunite215">
+      <img src="https://skillicons.dev/icons?i=github" />
+    </a>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
+</p>
