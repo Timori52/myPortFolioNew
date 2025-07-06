@@ -1,7 +1,7 @@
 # Project 3D - Portfolio
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/78680563/227708528-0e803ddf-506e-4d8b-98bc-dd7bf0f1b518.png" alt="Om's Logo Image"/>
+  <img src="<img width="1917" height="1069" alt="Image" src="https://github.com/user-attachments/assets/eed97bd1-9a5e-4d45-8b09-2ddf281218d6" />" alt="Sumit's Logo Image"/>
 </p>
 
 This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
@@ -75,7 +75,7 @@ Specializations:
 [<img src="https://skillicons.dev/icons?i=devto" />](https://sumit-timori-2942sm32l-timori52s-projects.vercel.app/)
 
 ## 🗒️ Authors
-- Om Patel
+- Sumit Timori
 
 <p align="left">
   <a href="https://skillicons.dev">
