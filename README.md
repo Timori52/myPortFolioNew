@@ -1,7 +1,7 @@
 # Project 3D - Portfolio
 
 <p align="center">
-  <img src=" https://github.com/user-attachments/assets/eed97bd1-9a5e-4d45-8b09-2ddf281218d6" alt="Sumit's Logo Image"/>
+  <img src=" https://github.com/user-attachments/assets/dc30b47f-74a9-4039-946b-54d461eeb83d" alt="Sumit's Logo Image"/>
 </p>
 
 This was my first project using Vite. Initially made using tutorial of [JavaScipt Mastery](https://youtu.be/0fYi8SGA20k?feature=shared).
