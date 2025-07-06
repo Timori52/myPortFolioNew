@@ -13,7 +13,7 @@ Work done on it other than the tutorial:-
 - Added a Resume Button (Where you can put a link to your resume).
 - Enhanced Visibility and solved Responsive UI Problems.
 
-This Project is hosted in Netlify : [3D Portfolio](https://portfoliobyompatel.netlify.app/)
+This Project is hosted in Netlify : [3D Portfolio](https://sumit-timori-2942sm32l-timori52s-projects.vercel.app/)
 
 ## :star: Give A Star
 
@@ -34,7 +34,7 @@ Before you start, make sure you have the following software installed on your co
 1. Clone the repository to your local machine
 
 ```bash
-  git clone https://github.com/omunite215/Project_3DPortfolio.git
+  git clone https://github.com/Timori52/myPortFolioNew
 
 ```
 2. Navigate to the project directory
@@ -69,22 +69,20 @@ Specializations:
 
 ## 🙋‍♂️ Connect With Me
 
-[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/omunite215)&nbsp;
-[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/om-patel-401068143/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/_21omp/)&nbsp;
-[<img src="https://skillicons.dev/icons?i=devto" />](https://portfoliobyom.netlify.app/)
+[<img src="https://skillicons.dev/icons?i=github" />](https://github.com/timori52)&nbsp;
+[<img src="https://skillicons.dev/icons?i=linkedin" />](https://www.linkedin.com/in/sumit-timori/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=instagram" />](https://www.instagram.com/____.sumit.___/)&nbsp;
+[<img src="https://skillicons.dev/icons?i=devto" />](https://sumit-timori-2942sm32l-timori52s-projects.vercel.app/)
 
 ## 🗒️ Authors
 - Om Patel
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <a href="https://github.com/omunite215">
+    <a href="https://github.com/timori52">
       <img src="https://skillicons.dev/icons?i=github" />
     </a>
   </a>
 </p>
 
-<p align="center">
-  <img src="https://github.com/omunite215/Project_3DPortfolio/assets/78680563/2fcf609b-e802-4fec-8c82-8f55fd043437" alt="Om's Logo Image"/>
-</p>
+
